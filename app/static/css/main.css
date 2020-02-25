@@ -13,6 +13,7 @@
   background: #eece1a;
   transition: all 1.5s ease-out;
 }
+
 .menu-btn.close {
   transform: rotate(180deg);
 }
